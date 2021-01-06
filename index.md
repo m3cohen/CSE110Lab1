@@ -1,5 +1,5 @@
 # Matthew Cohen's User Page
-[Custom foo description](#personal)
+[School/Career](#school/career) [Personal](#personal)
 
 ## School/Career
 
