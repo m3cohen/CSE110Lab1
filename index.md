@@ -21,7 +21,7 @@ I have had experience using and learning the following programming languages:
 My personal hobbies and interests includes sports like basketball and soccer, including being a basketball coach.  
 
 ![](https://assets-sports.thescore.com/basketball/team/18/logo.png)
-![](https://m.football-lineups.com/pics/cotes2/3_2002_1265_268.png)
+![](https://cf.geekdo-images.com/WBb1kQqwVnsnx8T7bWlrYQ__original/img/SP-Vptu6EZgZyn4d0gNA4GVY0pk=/0x0/pic5658533.jpg)
 
 One of my favorite quotes is from Michael Jordan:
 > “I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times, I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” 
