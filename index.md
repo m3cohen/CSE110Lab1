@@ -2,7 +2,7 @@
 [School](#school)                    
 [Personal](#personal)
 
-## School
+## School and Career
 
 I am a second year computer science major in *Warren College* at **UC San Diego**.
 
