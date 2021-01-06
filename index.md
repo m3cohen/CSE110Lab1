@@ -18,6 +18,20 @@ I have had experience using and learning the following programming languages:
  - HTML
  - JavaScript
  
+ I have worked on projects using the following data structures and data types.
+```
+Arrays
+ArrayLists
+Graphs
+Trees
+Linked Lists
+Queues
+Stacks
+Hashtables
+Sets
+Maps
+```
+
  I have done internships in Information Technology and Media.
  
  Here is a link to my [CSE 110 Lab 1](https://github.com/m3cohen/CSE110Lab1).
