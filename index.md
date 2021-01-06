@@ -2,12 +2,19 @@
 
 ## School/Career
 
-I am a second year computer science major in Warren College at **UC San Diego**.
+I am a second year computer science major in *Warren College* at **UC San Diego**.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Warren_logo.png/130px-Warren_logo.png)
 ![](https://www.sysnet.ucsd.edu/~voelker/pubcom/logo/CSELogo-bw-caulfield-thm.png)
 
 I am interested in creating apps and software that make different life tasks and activities easier and more automated. 
+
+I have had experience using and learning the following programming languages:
+ - Java
+ - C
+ - C++
+ - HTML
+ - JavaScript
 
 ## Personal
 
