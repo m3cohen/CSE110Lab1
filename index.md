@@ -18,6 +18,8 @@ I have had experience using and learning the following programming languages:
  - HTML
  - JavaScript
  
+ I have done internships in Information Technology and Media.
+ 
  Here is a link to my [CSE 110 Lab 1](https://github.com/m3cohen/CSE110Lab1).
 
 ## Personal
