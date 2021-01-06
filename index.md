@@ -1,5 +1,5 @@
 # Matthew Cohen's User Page
-[School/Career](https://github.com/m3cohen/CSE110Lab1/blob/gh-pages/index.md#schoolcareer)                      
+[School/Career](#school/career)                      
 [Personal](#personal)
 
 ## School/Career
