@@ -1,8 +1,8 @@
 # Matthew Cohen's User Page
-[School/Career](#school/career)                      
+[School](#school)                    
 [Personal](#personal)
 
-## School/Career
+## School
 
 I am a second year computer science major in *Warren College* at **UC San Diego**.
 
