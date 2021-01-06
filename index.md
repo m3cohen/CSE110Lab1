@@ -17,6 +17,8 @@ I have had experience using and learning the following programming languages:
  - C++
  - HTML
  - JavaScript
+ 
+ Here is a link to my [CSE 110 Lab 1](https://github.com/m3cohen/CSE110Lab1).
 
 ## Personal
 
@@ -28,8 +30,8 @@ My personal hobbies and interests includes sports like basketball and soccer, in
 One of my favorite quotes is from Michael Jordan:
 > “I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times, I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” 
 
-
-
-
-Here is a link to my [CSE 110 Lab 1](https://github.com/m3cohen/CSE110Lab1).
-
+My daily routine consists of
+- [ ] Attending Classes
+- [ ] Working on assignments
+- [ ] Taking a break for eating, watching basketball
+- [ ] Getting some exercise
