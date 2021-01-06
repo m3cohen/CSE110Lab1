@@ -1,6 +1,8 @@
 # Matthew Cohen's User Page
 [School/Career](#school/career) [Personal](#personal)
 
+[School](https://github.com/m3cohen/CSE110Lab1/blob/gh-pages/index.md#schoolcareer)
+
 ## School/Career
 
 I am a second year computer science major in *Warren College* at **UC San Diego**.
