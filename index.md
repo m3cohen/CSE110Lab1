@@ -1,6 +1,6 @@
-## Matthew Cohen's User Page
+# Matthew Cohen's User Page
 
-I am a second year computer science major in Warren College at UC San Diego.
+I am a second year computer science major in Warren College at **UC San Diego**
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Warren_logo.png/130px-Warren_logo.png)
 ![](https://www.sysnet.ucsd.edu/~voelker/pubcom/logo/CSELogo-bw-caulfield-thm.png)
