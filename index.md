@@ -1,5 +1,5 @@
 # Matthew Cohen's User Page
-[School](#school)                    
+[School and Career](#school-and-career)                    
 [Personal](#personal)
 
 ## School and Career
